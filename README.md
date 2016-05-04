@@ -28,6 +28,6 @@ The following  shows one such path to the point (5, 3).
 5,1
 5,2
 5,3
-==> EEEEEENNN
+==> EEEEENNN
 
 You may assume that the x/y values passed are non-negative. If x and y are both 0, return an empty string.
